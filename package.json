@@ -6,13 +6,21 @@
     "start": "next start"
   },
   "dependencies": {
+    "@reduxjs/toolkit": "^1.9.5",
+    "axios": "^1.5.0",
     "date-fns": "^2.30.0",
     "gray-matter": "^4.0.3",
     "next": "latest",
+    "next-redux-wrapper": "^8.1.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
+    "react-icons": "^4.11.0",
+    "react-redux": "^8.1.2",
+    "react-router-dom": "^6.16.0",
+    "redux": "^4.2.1",
     "remark": "^14.0.3",
-    "remark-html": "^15.0.2"
+    "remark-html": "^15.0.2",
+    "universal-cookie": "^6.1.1"
   },
   "engines": {
     "node": ">=18"
